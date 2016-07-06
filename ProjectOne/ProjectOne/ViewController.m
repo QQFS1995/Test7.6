@@ -20,7 +20,12 @@
     test7622222.text = @"fsafdsaf";
     [self.view addSubview:test7622222];
     
+    
     // Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)actionTest{
+    
 }
 
 - (void)didReceiveMemoryWarning {
