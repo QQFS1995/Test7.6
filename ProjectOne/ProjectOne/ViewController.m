@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     UILabel *test7622222 = [[UILabel alloc]init];
+    test7622222.text = @"fsafdsaf";
+    [self.view addSubview:test7622222];
     
     // Do any additional setup after loading the view, typically from a nib.
 }
