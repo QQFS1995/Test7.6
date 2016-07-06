@@ -16,8 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    UILabel *CC = [[UILabel alloc]init];
-    //fsafdasfdsfasd
+
+    UILabel *test7622222 = [[UILabel alloc]init];
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
